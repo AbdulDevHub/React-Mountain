@@ -1,0 +1,15 @@
+{
+  "name": "scrappingBlogs",
+  "version": "1.0.0",
+  "description": "A web scrapper to scrape data from blogs",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "author": "Abdul Kha",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.6.3"
+  }
+}
