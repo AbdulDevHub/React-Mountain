@@ -1,0 +1,38 @@
+export const projects = [
+    {
+      title: 'E-Portfolio',
+      description: "",
+      image: '/images/1.png',
+      tags: ['React', 'ParticleJS', 'EmailJS', 'MomentJS', 'Saas'],
+      source: 'https://github.com/Darkskittlz/portfolioReactWebsite',
+      visit: 'https://darkmeowproductions-netlify.netlify.app/',
+      id: 0,
+    },
+    {
+      title: 'E-Commerce',
+      description:"",
+      image: '/images/2.png',
+      tags: ['React', 'ReactStrap', 'Material-UI', 'CommerceJS'],
+      source: 'https://github.com/Darkskittlz/React-Art-Shop',
+      visit: 'https://darkmeowshop.com',
+      id: 1,
+    },
+    {
+      title: 'DarkCrypto',
+      description: "",
+        image: '/images/3.png',
+        tags: ['React', 'Redux', 'RapidAPI', 'AntD', 'Axios', 'Millify',],
+      source: 'https://github.com/Darkskittlz/React-Crypto-Project',
+      visit: 'https://darkcrypto.netlify.app/',
+      id: 2,
+    },
+    {
+      title: 'Musician Hub',
+      description: "",
+        image: '/images/4.png',
+        tags: ['HTML', 'CSS', 'JS'],
+      source: 'https://github.com/Darkskittlz/matiasSite',
+      visit: 'https://www.matiassanes.com/',
+      id: 3,
+    },
+  ];
